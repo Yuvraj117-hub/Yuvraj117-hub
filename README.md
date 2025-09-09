@@ -1,93 +1,103 @@
-# 👩‍💻 Yuvraj Chekkapelly – React & UI Developer
+# 👋 Hi, I’m **CH. Yuvaraj**
+> Frontend Developer | ReactJS Specialist | UI/UX Enthusiast
 
-![Header](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=white\&style=for-the-badge)
-![Frontend](https://img.shields.io/badge/Frontend-FF6E0A?style=for-the-badge)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-00FF9D?style=for-the-badge)
-
----
-
-## 🔥 About Me
-
-Hey! I’m **Shivani**, a frontend magician who turns **designs into pixel-perfect, responsive, and blazing-fast web experiences**.
-I love building **interactive UI** with **React**, modern **CSS frameworks**, and a keen eye for **UX design**.
-
-I believe:
-
-> *Clean code + beautiful UI = happy users*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj117-hub)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajchekkapelly@gmail.com)
 
 ---
 
-## 💻 Tech Stack
+## 👨‍💻 About Me
+I’m a passionate **Frontend Developer** with expertise in creating **responsive, interactive, and visually appealing web applications**. I specialize in **ReactJS** and have a strong eye for **UI/UX design**, focusing on delivering seamless user experiences.  
 
-### **Languages & Frameworks**
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square\&logo=css3\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square\&logo=react\&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square\&logo=tailwindcss\&logoColor=white)
-
-### **Tools & Libraries**
-
-* Redux / Redux Toolkit / Context API
-* React Router v6
-* Material-UI / Ant Design / Shadcn/UI
-* Figma / Adobe XD
-* Axios / Fetch API
-
-### **Dev & Deployment**
-
-* Git & GitHub
-* Vite / CRA
-* Netlify, Vercel, Railway
+- 📍 Based in **Hyderabad, India**  
+- 🎯 Focused on creating **pixel-perfect interfaces**  
+- ⚡ Quick learner & problem solver  
+- 💡 Open to freelance and full-time opportunities  
 
 ---
 
-## 🚀 Projects
+## 💻 Technical Skills
 
-### **Task Manager App**
+| Skill | Proficiency |
+|-------|------------|
+| HTML5 | ![95%](https://progress-bar.dev/95/) |
+| CSS3 | ![90%](https://progress-bar.dev/90/) |
+| JavaScript (ES6) | ![85%](https://progress-bar.dev/85/) |
+| ReactJS | ![90%](https://progress-bar.dev/90/) |
+| Core Java | ![75%](https://progress-bar.dev/75/) |
+| Frameworks & Libraries | ![85%](https://progress-bar.dev/85/) |
 
-* Dynamic task scheduling, email notifications & priority system
-* Role-based user access & status tracking
-* React + Tailwind CSS + Context API
-  [**Live Demo**](#) | [**GitHub**](#)
-
-### **E-Commerce UI**
-
-* Interactive product cards, filters & search
-* Fully responsive & mobile-first
-* Material-UI + React Hooks
-  [**Live Demo**](#) | [**GitHub**](#)
-
-### **Portfolio Website**
-
-* Showcase of projects, skills & contact form
-* Smooth animations & modern UI
-* React + Tailwind CSS
-  [**Live Demo**](#) | [**GitHub**](#)
+**Tools & Libraries:** Bootstrap, Tailwind CSS, Material-UI, Styled-Components, Electron, React Router, Git, VSCode  
 
 ---
 
-## 🎨 My UI/UX Philosophy
+## 🛠 Projects
 
-* Clean, minimal, and intuitive design
-* Responsive for every device (mobile-first!)
-* Fast, interactive & user-friendly
-* Animations that delight without distraction
+### POS Web Application – React & Electron
+- Developed **cross-platform desktop app** using React and Electron  
+- Modular UI components, responsive design, real-time updates  
+- **Tech Stack:** React, Electron, React Query, Material-UI, Styled-Components  
+
+### YouTube Video Popularity Analysis
+- Collects data from YouTube API, predicts video views using **Machine Learning**  
+- Secure login and **interactive data visualization**  
+- **Tech Stack:** React, ML, API Integration, Data Visualization  
+
+### Smart City Guide Application
+- **IoT & GIS based app** to enhance urban experience for residents & visitors  
+- Provides real-time services and notifications  
+- **Tech Stack:** React Native, IoT, Real-time Data, GIS  
+
+### Ecommerce Website
+- Full-featured online store with **secure checkout and payment integration**  
+- **Tech Stack:** React, Node.js, MongoDB  
+
+### Netflix Clone
+- Mimics Netflix layout with **carousel, hero section, and responsive design**  
+- **Tech Stack:** HTML, CSS, JavaScript  
+
+💻 **More Projects:** [GitHub Profile](https://github.com/Yuvraj117-hub)
+
+---
+
+## 🏆 Experience
+
+**UI Developer | RetailSols Pvt Ltd | Hyderabad, India**  
+*Nov 2024 – Present*  
+- Built **cross-platform mobile apps** with React  
+- Designed **seamless UI/UX** using HTML, CSS, SCSS, TypeScript  
+- Implemented **API-driven real-time updates**  
+
+**Developer | HCL | Chennai**  
+*July 2022 – Dec 2022*  
+- Developed **job tracking application** with secure login and reporting features  
+- Designed **database schema** for users and applications  
+
+---
+
+## 🎓 Education & Certifications
+**B.Tech (CSE)** – Sathyabama Institute Of Science and Technology | CGPA: 8.5 | 2024  
+**Class XII** – Sri Chaitanya Junior College | 92% | 2020  
+**Class X** – Manasa High School | 95% | 2018  
+
+**Certifications:**  
+- NPTEL – Cloud Computing (IIT Kharagpur)  
+- SQL & Python (IMARTICUS Learning)  
+- JAVA Full Stack (JSpiders)  
+
+---
+
+## 📫 Contact Me
+- 📧 Email: [yuvrajchekkapelly@gmail.com](mailto:yuvrajchekkapelly@gmail.com)  
+- 📞 Phone: +91 9640597484  
+- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245)  
+- 💻 GitHub: [Yuvraj117-hub](https://github.com/Yuvraj117-hub)  
 
 ---
 
 ## ⚡ Fun Fact
-
-I don’t just write code—I **craft experiences** that make users say:
-
-> “Wow, this feels smooth & modern!”
+I love transforming **creative UI ideas into real-world web apps** and exploring **animations, transitions, and micro-interactions** to make every interface enjoyable for users.  
 
 ---
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/yourusername)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:your.email@example.com)
 
