@@ -4,7 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6F61">Yuvaraj</span></h1>
-<h3 align="center">Frontend Developer | React Enthusiast | UI/UX Explorer</h3>
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=FF6F61&center=true&width=500&lines=Frontend+Developer;React+Enthusiast;UI%2FUX+Explorer" alt="Typing Effect"/>
+</h3>
 
 <p align="center">
   <a href="https://github.com/Yuvraj117-hub"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
