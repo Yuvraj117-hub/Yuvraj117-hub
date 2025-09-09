@@ -1,103 +1,96 @@
-# 👋 Hi, I’m **CH. Yuvaraj**
-> Frontend Developer | ReactJS Specialist | UI/UX Enthusiast
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yuvraj117-hub/Yuvraj117-hub/main/assets/banner.png" alt="Portfolio Banner" width="100%">
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Yuvraj117-hub)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yuvrajchekkapelly@gmail.com)
+<h1 align="center">Hi 👋, I'm <span style="color:#FF6F61">Yuvaraj</span></h1>
+<h3 align="center">Frontend Developer | React Enthusiast | UI/UX Explorer</h3>
 
----
-
-## 👨‍💻 About Me
-I’m a passionate **Frontend Developer** with expertise in creating **responsive, interactive, and visually appealing web applications**. I specialize in **ReactJS** and have a strong eye for **UI/UX design**, focusing on delivering seamless user experiences.  
-
-- 📍 Based in **Hyderabad, India**  
-- 🎯 Focused on creating **pixel-perfect interfaces**  
-- ⚡ Quick learner & problem solver  
-- 💡 Open to freelance and full-time opportunities  
+<p align="center">
+  <a href="https://github.com/Yuvraj117-hub"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yuvrajchekkapelly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## 💻 Technical Skills
+## 🌟 About Me
+I create **beautiful, responsive web apps** that users love.  
+I focus on **React, UI/UX, and interactive designs**, bringing ideas to life with **clean code and modern design principles**.  
 
-| Skill | Proficiency |
-|-------|------------|
-| HTML5 | ![95%](https://progress-bar.dev/95/) |
-| CSS3 | ![90%](https://progress-bar.dev/90/) |
-| JavaScript (ES6) | ![85%](https://progress-bar.dev/85/) |
-| ReactJS | ![90%](https://progress-bar.dev/90/) |
-| Core Java | ![75%](https://progress-bar.dev/75/) |
-| Frameworks & Libraries | ![85%](https://progress-bar.dev/85/) |
-
-**Tools & Libraries:** Bootstrap, Tailwind CSS, Material-UI, Styled-Components, Electron, React Router, Git, VSCode  
+- 🎯 Passionate about **React & modern web tech**  
+- 💻 Experienced in **UI/UX, HTML, CSS, JS, React**  
+- 🔗 Building **interactive projects** that are user-friendly  
 
 ---
 
-## 🛠 Projects
-
-### POS Web Application – React & Electron
-- Developed **cross-platform desktop app** using React and Electron  
-- Modular UI components, responsive design, real-time updates  
-- **Tech Stack:** React, Electron, React Query, Material-UI, Styled-Components  
-
-### YouTube Video Popularity Analysis
-- Collects data from YouTube API, predicts video views using **Machine Learning**  
-- Secure login and **interactive data visualization**  
-- **Tech Stack:** React, ML, API Integration, Data Visualization  
-
-### Smart City Guide Application
-- **IoT & GIS based app** to enhance urban experience for residents & visitors  
-- Provides real-time services and notifications  
-- **Tech Stack:** React Native, IoT, Real-time Data, GIS  
-
-### Ecommerce Website
-- Full-featured online store with **secure checkout and payment integration**  
-- **Tech Stack:** React, Node.js, MongoDB  
-
-### Netflix Clone
-- Mimics Netflix layout with **carousel, hero section, and responsive design**  
-- **Tech Stack:** HTML, CSS, JavaScript  
-
-💻 **More Projects:** [GitHub Profile](https://github.com/Yuvraj117-hub)
+## 🎨 Skills & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MaterialUI-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
+</p>
 
 ---
 
-## 🏆 Experience
+## 🚀 Projects Showcase
 
-**UI Developer | RetailSols Pvt Ltd | Hyderabad, India**  
-*Nov 2024 – Present*  
-- Built **cross-platform mobile apps** with React  
-- Designed **seamless UI/UX** using HTML, CSS, SCSS, TypeScript  
-- Implemented **API-driven real-time updates**  
+<div align="center">
 
-**Developer | HCL | Chennai**  
-*July 2022 – Dec 2022*  
-- Developed **job tracking application** with secure login and reporting features  
-- Designed **database schema** for users and applications  
+<table>
+<tr>
+<td align="center">
+<a href="https://github.com/Yuvraj117-hub/POS-Desktop-App">
+<img src="https://raw.githubusercontent.com/Yuvraj117-hub/Yuvraj117-hub/main/assets/pos-app.png" width="250px" />
+</a>
+<br>
+<b>POS Desktop App</b><br>
+React + Electron | Real-time UI
+</td>
+
+<td align="center">
+<a href="https://github.com/Yuvraj117-hub/YouTube-Analytics">
+<img src="https://raw.githubusercontent.com/Yuvraj117-hub/Yuvraj117-hub/main/assets/youtube-analytics.png" width="250px" />
+</a>
+<br>
+<b>YouTube Analytics</b><br>
+React + ML | Interactive Charts
+</td>
+
+<td align="center">
+<a href="https://github.com/Yuvraj117-hub/Smart-City-Guide">
+<img src="https://raw.githubusercontent.com/Yuvraj117-hub/Yuvraj117-hub/main/assets/smart-city.png" width="250px" />
+</a>
+<br>
+<b>Smart City Guide</b><br>
+IoT + React Native | Real-time Services
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎓 Education & Certifications
-**B.Tech (CSE)** – Sathyabama Institute Of Science and Technology | CGPA: 8.5 | 2024  
-**Class XII** – Sri Chaitanya Junior College | 92% | 2020  
-**Class X** – Manasa High School | 95% | 2018  
-
-**Certifications:**  
-- NPTEL – Cloud Computing (IIT Kharagpur)  
-- SQL & Python (IMARTICUS Learning)  
-- JAVA Full Stack (JSpiders)  
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj117-hub&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj117-hub&theme=radical" />
+</p>
 
 ---
 
-## 📫 Contact Me
-- 📧 Email: [yuvrajchekkapelly@gmail.com](mailto:yuvrajchekkapelly@gmail.com)  
-- 📞 Phone: +91 9640597484  
-- 🔗 LinkedIn: [Profile](https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245)  
-- 💻 GitHub: [Yuvraj117-hub](https://github.com/Yuvraj117-hub)  
+## 💬 Connect with Me
+<p align="center">
+  <a href="https://github.com/Yuvraj117-hub"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/yuvaraj-chekkapelly-a01215245"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:yuvrajchekkapelly@gmail.com"><img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
 
-## ⚡ Fun Fact
-I love transforming **creative UI ideas into real-world web apps** and exploring **animations, transitions, and micro-interactions** to make every interface enjoyable for users.  
-
----
-
+<p align="center">
+"Design is not just what it looks like, it's how it works." – <b>Steve Jobs</b>
+</p>
