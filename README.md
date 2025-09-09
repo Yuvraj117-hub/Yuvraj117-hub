@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yuvraj117-hub/Yuvraj117-hub/main/assets/banner.png" alt="Portfolio Banner" width="100%">
+  <img src="./assets/banner.png" alt="Portfolio Banner" width="100%">
 </p>
+
 
 <h1 align="center">Hi 👋, I'm <span style="color:#FF6F61">Yuvaraj</span></h1>
 <h3 align="center">Frontend Developer | React Enthusiast | UI/UX Explorer</h3>
